@@ -40,6 +40,9 @@ R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Secu
 ### Menu Option 3 - Change the color scheme of the QR code
 ![](https://github.com/ericyoc/qr_code_demo_poc/blob/main/figure_7_qr_code.jpg)
 
+### Menu Option 5 - Change the color scheme of the QR code
+![](https://github.com/ericyoc/qr_code_demo_poc/blob/main/figure_8_qr_code.jpg)
+
 ## Requirements
 
 - Python 3.x
