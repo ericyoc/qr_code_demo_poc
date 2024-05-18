@@ -12,7 +12,7 @@ R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Secu
 
 UPC, Barcodes  & Prefixes https://www.gs1us.org/upcs-barcodes-prefixes/what-is-a-qr-code
 
-QR COde Standards https://www.qrcode.com/en/about/standards.html
+QR Code Standards https://www.qrcode.com/en/about/standards.html
 
 Google Charts > Infographics https://developers.google.com/chart/infographics/docs/qr_codes
 
