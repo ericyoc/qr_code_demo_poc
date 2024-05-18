@@ -17,6 +17,11 @@ R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Secu
 - Apply a random gradient to the QR code
 - Read and decode QR codes from image files
 
+## Results
+
+### Menu Options 1 - Generate QR codes with custom data (up to 40 characters)
+![](https://github.com/ericyoc/qr_code_demo_poc/blob/main/figure_1_qr_code.jpg)
+
 ## Requirements
 
 - Python 3.x
