@@ -37,6 +37,9 @@ R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Secu
 ### Menu Option 2 - Generate QR codes with a custom logo image
 ![](https://github.com/ericyoc/qr_code_demo_poc/blob/main/figure_6_qr_code.jpg)
 
+### Menu Option 3 - Change the color scheme of the QR code
+![](https://github.com/ericyoc/qr_code_demo_poc/blob/main/figure_7_qr_code.jpg)
+
 ## Requirements
 
 - Python 3.x
