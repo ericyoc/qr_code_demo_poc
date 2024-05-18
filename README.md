@@ -4,7 +4,7 @@ This Python code demonstrates how to generate, modify, and read QR codes using t
 
 ## Motivating Articles
 
-Chen, W., Li, Q., Tang, X., & Pan, Q. (2023). A digital watermarking method for medical images resistant to print-scan based on QR code. Multimedia Tools and Applications, 1-22.
+Chen, W., Li, Q., Tang, X., & Pan, Q. (2023). A digital watermarking method for medical images resistant to print-scan based on QR code. Multimedia Tools and Applications, 1-22. https://link.springer.com/article/10.1007/s11042-023-17155-2
 
 R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Securing QR Codes against Counterfeits in Supply Chain Management," 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2024, pp. 0589-0596, doi: 10.1109/CCWC60891.2024.10427722. https://ieeexplore.ieee.org/abstract/document/10427722
 
