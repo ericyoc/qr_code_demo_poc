@@ -8,8 +8,13 @@ Chen, W., Li, Q., Tang, X., & Pan, Q. (2023). A digital watermarking method for 
 
 R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Securing QR Codes against Counterfeits in Supply Chain Management," 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2024, pp. 0589-0596, doi: 10.1109/CCWC60891.2024.10427722. https://ieeexplore.ieee.org/abstract/document/10427722
 
-## QR Code Standards
-https://www.qrcode.com/en/about/standards.html
+## Related Topics
+
+UPC, Barcodes  & Prefixes https://www.gs1us.org/upcs-barcodes-prefixes/what-is-a-qr-code
+
+QR COde Standards https://www.qrcode.com/en/about/standards.html
+
+Google Charts > Infographics https://developers.google.com/chart/infographics/docs/qr_codes
 
 ## Features
 
