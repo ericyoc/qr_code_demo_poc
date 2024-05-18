@@ -28,6 +28,9 @@ R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Secu
 ### Menu Option 4 - Apply a random pattern to the QR code
 ![](https://github.com/ericyoc/qr_code_demo_poc/blob/main/figure_3_qr_code.jpg)
 
+### Menu Option 5 - Apply a random gradient to the QR code
+![](https://github.com/ericyoc/qr_code_demo_poc/blob/main/figure_4_qr_code.jpg)
+
 ## Requirements
 
 - Python 3.x
