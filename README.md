@@ -3,6 +3,9 @@
 This Python code demonstrates how to generate, modify, and read QR codes using the `qrcode` and `pyzbar` libraries. QR codes (Quick Response codes) are two-dimensional barcodes that can store various types of information, such as text, URLs, contact information, and more. They are widely used for quick and easy data sharing, product tracking, marketing campaigns, and various other applications.
 
 ## Motivating Articles
+
+Chen, W., Li, Q., Tang, X., & Pan, Q. (2023). A digital watermarking method for medical images resistant to print-scan based on QR code. Multimedia Tools and Applications, 1-22.
+
 R. Wu, N. Liu, G. Peng, A. Bhattarai and D. Peng, "An Innovative Method for Securing QR Codes against Counterfeits in Supply Chain Management," 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA, 2024, pp. 0589-0596, doi: 10.1109/CCWC60891.2024.10427722. https://ieeexplore.ieee.org/abstract/document/10427722
 
 ## Features
