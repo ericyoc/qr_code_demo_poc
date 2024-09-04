@@ -108,3 +108,12 @@ These modifications allow you to customize the appearance of the QR code while m
 ## Disclaimer
 
 This repository is for educational and research purposes only. The code provided is a demonstration of QR code generation and modification techniques and should be used responsibly. The authors and contributors of this repository are not responsible for any misuse or illegal activities performed using this code. Please ensure that you comply with all applicable laws and regulations when using QR codes.
+
+## License
+Copyright 2024 Eric Yocam
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
